@@ -1,1 +1,1 @@
-printf("Welcome to Git Tutorial!\n");
+printf("Welcome to Git Tutorial! First commit done successfully.");
